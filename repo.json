@@ -114,7 +114,7 @@
         "Author":  "Nedris",
         "Name":  "Chronicle",
         "InternalName":  "Chronicle",
-        "AssemblyVersion":  "0.1.18.0",
+        "AssemblyVersion":  "0.1.19.0",
         "Description":  "Replaces the vanilla achievement log with a searchable window: the game\u0027s categories, search across names, descriptions, categories and rewards (in the game\u0027s language and English), filters (status, rewards, sort), progress, recently completed, and controller support.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -134,6 +134,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791912526"
+        "LastUpdate":  "1791912712"
     }
 ]
