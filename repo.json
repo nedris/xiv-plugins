@@ -140,7 +140,7 @@
         "Author":  "Nedris",
         "Name":  "Arsenal",
         "InternalName":  "Arsenal",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.2.0.0",
         "Description":  "Draws the game\u0027s hotbars and cross hotbar in its own themed style (dark panels, accent color): the same slots, keybinds, controller and settings as the game, read live from it. Click a slot to use it as on the game\u0027s bar.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -161,6 +161,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792147494"
+        "LastUpdate":  "1792149210"
     }
 ]
