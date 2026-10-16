@@ -135,5 +135,32 @@
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
         "LastUpdate":  "1791914714"
+    },
+    {
+        "Author":  "Nedris",
+        "Name":  "Arsenal",
+        "InternalName":  "Arsenal",
+        "AssemblyVersion":  "0.1.0.0",
+        "Description":  "Draws the game\u0027s hotbars and cross hotbar in its own themed style (dark panels, accent color): the same slots, keybinds, controller and settings as the game, read live from it. Click a slot to use it as on the game\u0027s bar.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "hotbar",
+                     "ui",
+                     "theme"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "The game\u0027s hotbars, in the plugins\u0027 look.",
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Arsenal/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Arsenal/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Arsenal/latest.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadCount":  0,
+        "LastUpdate":  "1792147494"
     }
 ]
