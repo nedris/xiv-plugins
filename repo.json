@@ -31,7 +31,7 @@
         "Author":  "Nedris",
         "Name":  "Proximity",
         "InternalName":  "Proximity",
-        "AssemblyVersion":  "1.2.21.0",
+        "AssemblyVersion":  "1.2.22.0",
         "Description":  "Merges Nearby Players (Wholist) and Peeping Tom. Lists nearby players with their world and Free Company tag, colored by party, friend list and Player Sync / Lightless Sync status, and shows who is targeting you with the same click shortcuts as Peeping Tom.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -53,13 +53,13 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792577404"
+        "LastUpdate":  "1792582200"
     },
     {
         "Author":  "Nedris",
         "Name":  "Sync Priority",
         "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.1.4.0",
+        "AssemblyVersion":  "0.1.5.0",
         "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -79,7 +79,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792546345"
+        "LastUpdate":  "1792582200"
     },
     {
         "Author":  "Nedris",
