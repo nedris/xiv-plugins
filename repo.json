@@ -3,7 +3,7 @@
         "Author":  "Nedris",
         "Name":  "Waypoint",
         "InternalName":  "Waypoint",
-        "AssemblyVersion":  "0.2.24.0",
+        "AssemblyVersion":  "0.2.25.0",
         "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -25,7 +25,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792720775"
+        "LastUpdate":  "1792723998"
     },
     {
         "Author":  "Nedris",
@@ -85,7 +85,7 @@
         "Author":  "Nedris",
         "Name":  "Parley",
         "InternalName":  "Parley",
-        "AssemblyVersion":  "0.1.50.0",
+        "AssemblyVersion":  "0.1.51.0",
         "Description":  "Replaces the game\u0027s chat window (optional). Public channels go in tabs you configure (General, Party, FC…); every private conversation gets its own sub-tab inside a Private tab, created as soon as a tell is sent or received, with unread counters, history kept on your PC and an optional sound. The input follows the tab: write in a conversation to send a tell, in Party to talk to your party.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -108,13 +108,13 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792721883"
+        "LastUpdate":  "1792723998"
     },
     {
         "Author":  "Nedris",
         "Name":  "Chronicle",
         "InternalName":  "Chronicle",
-        "AssemblyVersion":  "0.1.30.0",
+        "AssemblyVersion":  "0.1.31.0",
         "Description":  "Replaces the vanilla achievement log with a searchable window: the game\u0027s categories, search across names, descriptions, categories and rewards (in the game\u0027s language and English), filters (status, rewards, sort), progress, recently completed, and controller support.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -134,6 +134,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792721883"
+        "LastUpdate":  "1792723998"
     }
 ]
