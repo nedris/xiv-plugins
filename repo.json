@@ -59,8 +59,8 @@
         "Author":  "Nedris",
         "Name":  "Sync Priority",
         "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.2.1.0",
-        "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them. VRAM management: while the game\u0027s video memory is above a line you set, pauses in Lightless (for 8 hours, Lightless\u0027 own timed pause) the synced players whose mods take the most, except those you set preferred permissions for; VRAM: X / Y GB in the server info bar.",
+        "AssemblyVersion":  "0.2.2.0",
+        "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them. VRAM management (off by default): when less than the video memory you choose to keep is free, pauses in Lightless (for 8 hours, Lightless\u0027 own timed pause) the synced players whose mods take the most, except those you set preferred permissions for; VRAM: X / Y GB in the server info bar.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "sync",
@@ -79,7 +79,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1794097394"
+        "LastUpdate":  "1794098535"
     },
     {
         "Author":  "Nedris",
