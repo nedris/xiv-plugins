@@ -59,8 +59,8 @@
         "Author":  "Nedris",
         "Name":  "Sync Priority",
         "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.1.5.0",
-        "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them.",
+        "AssemblyVersion":  "0.2.0.0",
+        "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them. VRAM management: while the game\u0027s video memory is above a line you set, pauses in Lightless (for 8 hours, Lightless\u0027 own timed pause) the synced players whose mods take the most, so tools like XIVRender keep their headroom; VRAM: X / Y GB in the server info bar.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "sync",
@@ -71,7 +71,7 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "Punchline":  "Avoid double-syncing players across Lightless Sync and Player Sync.",
+        "Punchline":  "Avoid double-syncing players across Lightless Sync and Player Sync, and keep the VRAM from saturating.",
         "AcceptsFeedback":  true,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/SyncPriority/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/SyncPriority/latest.zip",
@@ -79,7 +79,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1792582200"
+        "LastUpdate":  "1794096242"
     },
     {
         "Author":  "Nedris",
