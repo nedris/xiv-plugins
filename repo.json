@@ -59,7 +59,7 @@
         "Author":  "Nedris",
         "Name":  "Sync Manager",
         "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.3.0.0",
+        "AssemblyVersion":  "0.3.1.0",
         "Description":  "Sync Manager (formerly Sync Priority) drives Lightless Sync and Player Sync together. Around you: every synced player, their syncs, VRAM, gender and height. Rules that pause players for you: synced twice (keep Lightless only), VRAM (the heaviest players when video memory runs low, Player Sync first), appearance (gender, vanilla or as shown with mods) and height. One pause book: each player comes back once none of their reasons is left; friends, party members, preferred permissions and your own list are never paused. VRAM: X / Y GB in the server info bar.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -79,7 +79,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1794442438"
+        "LastUpdate":  "1794442979"
     },
     {
         "Author":  "Nedris",
